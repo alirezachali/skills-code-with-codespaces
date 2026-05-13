@@ -40,7 +40,7 @@ Let's create this file and set a few of the most common settings. For other opti
 
 1. After saving, VS Code likely popped up a notification that it detected a configuration change. You can **Accept** that option to rebuild the development container or manually use the Command Palette (`CTRL`+`Shift`+`P`) and run the command `Codespaces: Rebuild Container`. Select the **Rebuild** option. A full build is not necessary.
 
-   <img width="350" alt="rebuild codespace command" src="../images/rebuild-codespace-command.png"/>
+   <img width="350" alt="rebuild codespace command" src="https://github.com/alirezachali/skills-code-with-codespaces/blob/main/.github/images/rebuild-codespace-command.png?raw=true"/>
 
 1. Wait a few minutes for the Codespace to rebuild and VS Code to reconnect.
 
